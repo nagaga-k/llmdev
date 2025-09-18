@@ -1,0 +1,15 @@
+/*ヘッダー　文字色#fff　,背景色#84ceef　*/
+.header{
+    color: #fff;
+    background-color: #84ceef;
+}
+/*h1　文字色#e47292、文字は中央寄せ　*/
+h1{
+    color: #e47292;
+    text-align: center;
+}
+/*フッター　文字色#fff、背景色#040000　*/
+.footer{
+    color: #fff;
+    background-color: #040000;
+}
